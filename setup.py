@@ -15,6 +15,7 @@ setup(
         'flask',
         'flask_oauthlib',
         'bcrypt',
-        'SQLAlchemy>=1.0'
+        'SQLAlchemy>=1.0',
+        'redis'
     ],
 )
